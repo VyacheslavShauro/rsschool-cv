@@ -1,5 +1,4 @@
 # Vyacheslav Shauro
-===
 ## Junior Frontend Developer
 ---
 ### Contacts:
